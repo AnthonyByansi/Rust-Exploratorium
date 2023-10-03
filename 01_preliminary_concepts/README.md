@@ -5,8 +5,8 @@ This section covers the fundamental concepts you need to understand before divin
 ## Topics
 
 1. [Hello World](01_preliminary_concepts\hello_world.rs): The classic "Hello, World!" program in Rust.
-2. [Variables](variables.rs): Learn how to declare and use variables in Rust.
-3. [Ownership and Borrowing](ownership_borrowing.rs): Understand Rust's unique approach to memory management.
+2. [Variables](01_preliminary_concepts\variables.rs): Learn how to declare and use variables in Rust.
+3. [Ownership and Borrowing](01_preliminary_concepts\ownership_borrowing.rs): Understand Rust's unique approach to memory management.
 
 ## Getting Started
 
